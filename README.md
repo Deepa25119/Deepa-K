@@ -1,1 +1,1 @@
-# Deepa-K
+# Datascience Projects done in Great Lakes Institute of Management
